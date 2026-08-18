@@ -25,7 +25,7 @@ export function Navbar() {
             ▮▮
           </span>
           <span className="pixel-swap truncate font-mono text-sm font-bold uppercase tracking-widest">
-            faqih.dev
+            kiva.dev
           </span>
         </Link>
 
